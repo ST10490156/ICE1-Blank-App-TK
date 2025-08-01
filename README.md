@@ -11,7 +11,11 @@ This app was created using react native, and in the process of its creations ins
 [Setup Steps]
 
 -Create a new folder called Components V1 in the MAST5112 folder in file explorer.
+
 -Open react native.
+
 -Open Components V1 in react nateive.
+
 -Make sub folders.
+
 -Make files.
